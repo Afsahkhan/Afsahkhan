@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afsah Khan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&width=600&lines=%F0%9F%9A%80+Flutter+Engineer+%7C+Mobile+App+Developer+%7C+Clean+Architecture)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&width=600&lines=%F0%9F%9A%80+Flutter+Engineer|Mobile+App+Developer|Clean+Architecture)
 
 ---
 
@@ -60,7 +60,8 @@ Built cart and checkout system with responsive UI
 Integrated REST APIs for product and order management
 Followed Clean Architecture for maintainable code
 
-📂 Source Code: GitHub Repo
+🌐 Live: [eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
+
 
 🔹 Ecommerce App (Flutter Mobile App)
 
@@ -72,7 +73,7 @@ Built responsive and scalable UI across devices
 Followed Clean Architecture and modular design
 Optimized app performance and smooth user experience
 
-📂 Source Code: GitHub Reposervices
+
 * Built responsive and scalable UI
 
 🔹 Goldivo (Flutter Web)
@@ -85,8 +86,8 @@ User account management: login, password update, logout
 Developed dashboard to manage, filter, and export invoices
 Fully responsive UI for seamless use across devices
 
-🌐 Live Demo: [Goldivo](https://receipt-project-dbf3f.web.app/)
-📂 Source Code: [GitHub Repo](https://github.com/YourUsername/GoldInvoicePro)
+🌐 Live : [Goldivo](https://receipt-project-dbf3f.web.app/)
+
 
 
 🔹 Quoteify (Flutter Web)
@@ -99,8 +100,8 @@ Implemented Firebase Authentication for secure user access
 Built responsive and intuitive UI for fast workflow
 Optimized performance for handling multiple service entries
 
-🌐 Live Demo: [Quoteify](https://autoquote-c6207.web.app/)
-📂 Source Code: [GitHub Repo](https://github.com/YourUsername/Mechora)
+🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
+
 
 ---
 
