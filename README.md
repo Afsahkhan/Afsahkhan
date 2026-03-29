@@ -85,9 +85,9 @@ User account management: login, password update, logout
 Developed dashboard to manage, filter, and export invoices
 Fully responsive UI for seamless use across devices
 
-🌐 Live Demo: Click Here
+🌐 Live Demo: [Goldivo](https://receipt-project-dbf3f.web.app/)
+📂 Source Code: [GitHub Repo](https://github.com/YourUsername/GoldInvoicePro)
 
-📂 Source Code: GitHub Repo
 
 🔹 Quoteify (Flutter Web)
 
@@ -99,9 +99,8 @@ Implemented Firebase Authentication for secure user access
 Built responsive and intuitive UI for fast workflow
 Optimized performance for handling multiple service entries
 
-🌐 Live Demo: Try it here
-
-📂 Source Code: GitHub Repo
+🌐 Live Demo: [Quoteify](https://autoquote-c6207.web.app/)
+📂 Source Code: [GitHub Repo](https://github.com/YourUsername/Mechora)
 
 ---
 
