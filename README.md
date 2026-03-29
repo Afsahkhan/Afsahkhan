@@ -70,6 +70,14 @@ Currently working at **SwiftBytes**, collaborating across design, QA, and backen
 Customer ordering app with secure authentication, cart/checkout, and real-time order tracking.  
 *Impact: scaled to 5,000+ users with seamless order management.*
 
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-4B0082?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
 🌐 Live: [Eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
 
 ---
@@ -78,11 +86,26 @@ Customer ordering app with secure authentication, cart/checkout, and real-time o
 Cross-platform e-commerce app with real-time product browsing, secure checkout, and Google Maps.  
 *Impact: improved shopping experience with optimized checkout flow.*
 
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
 ---
 
 🔹 **Goldivo (Flutter Web)**  
 Web-based gold invoicing system with real-time gold price calculation, PDF generation, and Excel export.  
-*Impact: automated invoicing reduced manual work by 70%.*  
+*Impact: automated invoicing reduced manual work by 70%.*
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 
 🌐 Live: [Goldivo](https://receipt-project-dbf3f.web.app/)
 
@@ -90,7 +113,15 @@ Web-based gold invoicing system with real-time gold price calculation, PDF gener
 
 🔹 **Quoteify (Flutter Web)**  
 Vehicle workshop quotation system with categorized service pricing and PDF generation.  
-*Impact: streamlined workshop operations with instant quotations.*  
+*Impact: streamlined workshop operations with instant quotations.*
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 
 🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
 
