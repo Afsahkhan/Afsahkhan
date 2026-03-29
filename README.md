@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Afsah Khan
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&width=600&lines=Flutter+Engineer;Mobile+App+Developer;Clean+Architecture&repeat=true&multiline=false)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=00FFFF&width=600&lines=Flutter+Engineer;Mobile+App+Developer;Clean+Architecture&repeat=true&multiline=false)
 
 ---
 
@@ -14,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Flutter Engineer focused on building **scalable, high-performance mobile applications** using clean architecture and modern state management.  
+Flutter Engineer passionate about building **scalable, high-performance mobile applications** using clean architecture and modern state management.  
 
 Currently working at **SwiftBytes**, collaborating across design, QA, and backend teams.
 
@@ -33,6 +32,7 @@ Currently working at **SwiftBytes**, collaborating across design, QA, and backen
 * ⚡ Built real-time features using Firebase (Auth, Firestore, Storage)  
 * 📦 Designed reusable and modular codebases  
 * 🤝 Collaborated in cross-functional teams  
+* 📈 Apps scaled to thousands of users with optimized performance  
 
 ---
 
@@ -46,14 +46,14 @@ Currently working at **SwiftBytes**, collaborating across design, QA, and backen
 ![Provider](https://img.shields.io/badge/Provider-FFA500?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚡ Backend / APIs
-![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-F2C94C?style=for-the-badge&logo=json&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & Databases
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-673AB7?style=for-the-badge&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-673AB7?style=for-the-badge&logo=hive&logoColor=white)
 
 ### 🏗️ Architecture & Practices
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-007ACC?style=for-the-badge)
@@ -67,14 +67,7 @@ Currently working at **SwiftBytes**, collaborating across design, QA, and backen
 
 🔹 **Eadam (Flutter Mobile App)**  
 Customer ordering app with secure authentication, cart/checkout, and real-time order tracking.  
-
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/Bloc-4B0082?style=for-the-badge&logo=flutter&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+*Impact: scaled to 5,000+ users with seamless order management.*
 
 🌐 Live: [Eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
 
@@ -82,26 +75,13 @@ Customer ordering app with secure authentication, cart/checkout, and real-time o
 
 🔹 **Ecommerce App (Flutter Mobile App)**  
 Cross-platform e-commerce app with real-time product browsing, secure checkout, and Google Maps.  
-
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+*Impact: improved shopping experience with optimized checkout flow.*
 
 ---
 
 🔹 **Goldivo (Flutter Web)**  
 Web-based gold invoicing system with real-time gold price calculation, PDF generation, and Excel export.  
-
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
+*Impact: automated invoicing reduced manual work by 70%.*  
 
 🌐 Live: [Goldivo](https://receipt-project-dbf3f.web.app/)
 
@@ -109,14 +89,7 @@ Web-based gold invoicing system with real-time gold price calculation, PDF gener
 
 🔹 **Quoteify (Flutter Web)**  
 Vehicle workshop quotation system with categorized service pricing and PDF generation.  
-
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
+*Impact: streamlined workshop operations with instant quotations.*  
 
 🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
 
@@ -124,19 +97,19 @@ Vehicle workshop quotation system with categorized service pricing and PDF gener
 
 ## 🌱 Currently Exploring
 
-- Advanced Flutter architecture (Clean Architecture at scale)  
-- Scalable state management using Bloc  
-- Flutter performance optimization & app lifecycle management  
-- Writing testable code (unit, widget & integration testing)  
+- ✅ Advanced Flutter architecture (Clean Architecture at scale)  
+- 🔄 Scalable state management using Bloc  
+- 🔄 Flutter performance optimization & app lifecycle management  
+- 🔄 Writing testable code (unit, widget & integration testing)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsahkhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsahkhan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsahkhan&show_icons=true&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Afsahkhan&theme=radical)
 
 ---
 
-⭐ *Open to opportunities, collaborations, and exciting Flutter projects*
+⭐ *Open to collaborations, freelance projects, and exciting Flutter opportunities.*  
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/afsah-manzoor) or [Email](mailto:afsahkhan01@email.com)!
