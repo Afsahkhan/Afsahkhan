@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afsah Khan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&width=600&lines=Flutter+Engineer%0AMobile+App+Developer%0AClean+Architecture)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&width=600&lines=Flutter+Engineer%7CMobile+App+Developer%7CClean+Architecture)
 
 ---
 
