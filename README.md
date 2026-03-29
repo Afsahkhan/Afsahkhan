@@ -1,3 +1,5 @@
+![Banner](https://copilot.microsoft.com/th/id/BCO.b0b15f8a-2029-4c5e-b50f-f250d33192d3.png)
+
 # 👋 Hi, I'm Afsah Khan
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=00FFFF&width=600&lines=Flutter+Engineer;Mobile+App+Developer;Clean+Architecture&repeat=true&multiline=false)
 
@@ -109,7 +111,8 @@ Vehicle workshop quotation system with categorized service pricing and PDF gener
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsahkhan&show_icons=true&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Afsahkhan&theme=radical)
 
----
-
-⭐ *Open to collaborations, freelance projects, and exciting Flutter opportunities.*  
+---⭐ *Open to collaborations, freelance projects, and exciting Flutter opportunities.*  
 📩 Reach out via [LinkedIn](https://www.linkedin.com/in/afsah-manzoor) or [Email](mailto:afsahkhan01@email.com)!
+
+![Footer](https://copilot.microsoft.com/th/id/BCO.68fd04b5-930f-4327-84cb-590696e9d7c3.png)
+
