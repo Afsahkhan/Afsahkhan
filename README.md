@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afsah Khan
 
-🚀 **Flutter Engineer | Scalable Mobile Apps | Clean Architecture**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&width=600&lines=%F0%9F%9A%80+Flutter+Engineer+%7C+Mobile+App+Developer+%7C+Clean+Architecture)
 
 ---
 
