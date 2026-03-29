@@ -7,7 +7,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsah-manzoor)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afsahkhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsahkhan01@email.com)
 
 ---
@@ -67,19 +67,53 @@ Currently working at **SwiftBytes**, contributing to production-grade applicatio
 
 🔹 **Eadam (Flutter Mobile App)**  
 Customer ordering app for fresh products with secure authentication, cart/checkout, and real-time order tracking.  
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Bloc](https://img.shields.io/badge/Bloc-4B0082?style=for-the-badge&logo=flutter&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
 🌐 Live: [Eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
+
+---
 
 🔹 **Ecommerce App (Flutter Mobile App)**  
 Cross-platform e-commerce app featuring real-time product browsing, secure checkout, and Google Maps integration.  
 
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+---
+
 🔹 **Goldivo (Flutter Web)**  
-A web-based gold invoicing system with real-time gold price calculation, PDF generation, and Excel export.  
+Web-based gold invoicing system with real-time gold price calculation, PDF generation, and Excel export.  
+
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
+
 🌐 Live: [Goldivo](https://receipt-project-dbf3f.web.app/)
+
+---
 
 🔹 **Quoteify (Flutter Web)**  
 Vehicle workshop quotation and maintenance system with categorized service pricing and PDF generation.  
-🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
 
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 ---
 
 ## 🌱 Currently Exploring
