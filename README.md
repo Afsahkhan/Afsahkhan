@@ -4,108 +4,86 @@
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsah-manzoor)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsahkhan01@email.com)
+
+---
+
 ## 👨‍💻 About Me
 
 Flutter Engineer focused on building **scalable, high-performance mobile applications** using clean architecture and modern state management. I specialize in turning real-world problems into efficient, maintainable solutions with smooth user experiences.
 
 Currently working at **SwiftBytes**, contributing to production-grade applications and collaborating across design, QA, and backend teams.
 
-* 📱 Built and deployed cross-platform apps using Flutter
-* ⚙️ Strong experience with **Clean Architecture (Data, Domain, Presentation layers)**
-* 🔥 Skilled in **Bloc, GetX, and Provider** for scalable state management
-* 🌐 Integrated **REST APIs & Firebase services** for real-time apps
-* 🗺️ Implemented **Google Maps & location-based features** in production
-* 🎯 Focused on performance, scalability, and clean code practices
+* 📱 Built and deployed cross-platform apps using Flutter  
+* ⚙️ Strong experience with **Clean Architecture (Data, Domain, Presentation layers)**  
+* 🔥 Skilled in **Bloc, GetX, and Provider** for scalable state management  
+* 🌐 Integrated **REST APIs & Firebase services** for real-time apps  
+* 🗺️ Implemented **Google Maps & location-based features** in production  
+* 🎯 Focused on performance, scalability, and clean code practices  
 
 ---
 
 ## 🏆 Key Achievements
 
-* 🚀 Delivered multiple production-ready Flutter apps
-* ⚡ Built real-time features using Firebase (Auth, Firestore, Storage)
-* 📦 Designed reusable and modular codebases for scalability
-* 🤝 Collaborated in cross-functional teams to ship user-focused features
+* 🚀 Delivered multiple production-ready Flutter apps  
+* ⚡ Built real-time features using Firebase (Auth, Firestore, Storage)  
+* 📦 Designed reusable and modular codebases for scalability  
+* 🤝 Collaborated in cross-functional teams to ship user-focused features  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 📱 Mobile Development
-
-Flutter · Dart · Bloc · Provider · GetX · Responsive UI · Animations · API Integration · Google Maps
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-4B0082?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FFA500?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚡ Backend / APIs
-
-RESTful APIs · JSON · Authentication Systems
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-F2C94C?style=for-the-badge&logo=json&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & Databases
-
-Firebase Auth · Firestore · Storage · SQLite · Hive
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-673AB7?style=for-the-badge&logoColor=white)
 
 ### 🏗️ Architecture & Practices
-
-Clean Architecture · SOLID Principles · MVVM · Modular Design · Reusable Components
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-007ACC?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-FC0?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-00BCD4?style=for-the-badge)
+![Modular Design](https://img.shields.io/badge/Modular_Design-FF4081?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Eadam (Flutter Mobile App)
+🔹 **Eadam (Flutter Mobile App)**  
+Customer ordering app for fresh products with secure authentication, cart/checkout, and real-time order tracking.  
+🌐 Live: [Eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
 
-Customer ordering app for fresh products with secure authentication, cart/checkout, and real-time order tracking.
+🔹 **Ecommerce App (Flutter Mobile App)**  
+Cross-platform e-commerce app featuring real-time product browsing, secure checkout, and Google Maps integration.  
 
-Implemented secure Firebase authentication with email and Google login
-Real-time order tracking and push notifications
-Built cart and checkout system with responsive UI
-Integrated REST APIs for product and order management
-Followed Clean Architecture for maintainable code
+🔹 **Goldivo (Flutter Web)**  
+A web-based gold invoicing system with real-time gold price calculation, PDF generation, and Excel export.  
+🌐 Live: [Goldivo](https://receipt-project-dbf3f.web.app/)
 
-🌐 Live: [eadam](https://apps.apple.com/pk/app/eadam/id6743176438)
-
-
-🔹 Ecommerce App (Flutter Mobile App)
-
-Cross-platform e-commerce app featuring real-time product browsing, secure checkout, and Google Maps integration.
-
-Integrated REST APIs for product data
-Implemented Google Maps for store and delivery locations
-Built responsive and scalable UI across devices
-Followed Clean Architecture and modular design
-Optimized app performance and smooth user experience
-
-
-* Built responsive and scalable UI
-
-🔹 Goldivo (Flutter Web)
-
-A web-based gold invoicing system that allows customers to generate and manage invoices with real-time gold price calculation, PDF generation, and Excel export.
-
-Implemented real-time gold calculation and dynamic totals
-Built PDF generation system for invoices
-User account management: login, password update, logout
-Developed dashboard to manage, filter, and export invoices
-Fully responsive UI for seamless use across devices
-
-🌐 Live : [Goldivo](https://receipt-project-dbf3f.web.app/)
-
-
-
-🔹 Quoteify (Flutter Web)
-
-A vehicle workshop quotation and maintenance system that allows users to generate detailed PDFs for maintenance services, with categorized service pricing.
-
-Designed a flexible pricing engine with categorized services
-Generated professional PDFs for each vehicle maintenance record
-Implemented Firebase Authentication for secure user access
-Built responsive and intuitive UI for fast workflow
-Optimized performance for handling multiple service entries
-
+🔹 **Quoteify (Flutter Web)**  
+Vehicle workshop quotation and maintenance system with categorized service pricing and PDF generation.  
 🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
-
 
 ---
 
-## 🌱 Currently Exploring  
+## 🌱 Currently Exploring
+
 - Advanced Flutter architecture (Clean Architecture at scale)  
 - Scalable state management using Bloc  
 - Flutter performance optimization & app lifecycle management  
@@ -115,16 +93,9 @@ Optimized performance for handling multiple service entries
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername\&layout=compact\&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername\&theme=radical)
-
----
-
-## 🌐 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/afsah-manzoor
-📧 Email: [afsahkhan01@email.com](mailto:afsahkhan01@email.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
 
 ---
 
