@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afsah Khan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&width=600&lines=Flutter+Engineer%7CMobile+App+Developer%7CClean+Architecture)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&width=600&lines=Flutter+Engineer%7CMobile+App+Developer%7CClean+Architecture&repeat=true)
 
 ---
 
@@ -71,6 +71,7 @@ Customer ordering app for fresh products with secure authentication, cart/checko
 **Tech Stack:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Bloc](https://img.shields.io/badge/Bloc-4B0082?style=for-the-badge&logo=flutter&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
@@ -86,7 +87,7 @@ Cross-platform e-commerce app featuring real-time product browsing, secure check
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
@@ -99,6 +100,7 @@ Web-based gold invoicing system with real-time gold price calculation, PDF gener
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 
 🌐 Live: [Goldivo](https://receipt-project-dbf3f.web.app/)
@@ -112,6 +114,7 @@ Vehicle workshop quotation and maintenance system with categorized service prici
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 ---
