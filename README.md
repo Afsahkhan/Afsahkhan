@@ -14,15 +14,15 @@
 
 ## 👨‍💻 About Me
 
-Flutter Engineer focused on building **scalable, high-performance mobile applications** using clean architecture and modern state management. I specialize in turning real-world problems into efficient, maintainable solutions with smooth user experiences.
+Flutter Engineer focused on building **scalable, high-performance mobile applications** using clean architecture and modern state management.  
 
-Currently working at **SwiftBytes**, contributing to production-grade applications and collaborating across design, QA, and backend teams.
+Currently working at **SwiftBytes**, collaborating across design, QA, and backend teams.
 
 * 📱 Built and deployed cross-platform apps using Flutter  
 * ⚙️ Strong experience with **Clean Architecture (Data, Domain, Presentation layers)**  
-* 🔥 Skilled in **Bloc, GetX, and Provider** for scalable state management  
-* 🌐 Integrated **REST APIs & Firebase services** for real-time apps  
-* 🗺️ Implemented **Google Maps & location-based features** in production  
+* 🔥 Skilled in **Bloc, GetX, and Provider**  
+* 🌐 Integrated **REST APIs & Firebase services**  
+* 🗺️ Implemented **Google Maps & location-based features**  
 * 🎯 Focused on performance, scalability, and clean code practices  
 
 ---
@@ -31,8 +31,8 @@ Currently working at **SwiftBytes**, contributing to production-grade applicatio
 
 * 🚀 Delivered multiple production-ready Flutter apps  
 * ⚡ Built real-time features using Firebase (Auth, Firestore, Storage)  
-* 📦 Designed reusable and modular codebases for scalability  
-* 🤝 Collaborated in cross-functional teams to ship user-focused features  
+* 📦 Designed reusable and modular codebases  
+* 🤝 Collaborated in cross-functional teams  
 
 ---
 
@@ -66,7 +66,7 @@ Currently working at **SwiftBytes**, contributing to production-grade applicatio
 ## 🚀 Featured Projects
 
 🔹 **Eadam (Flutter Mobile App)**  
-Customer ordering app for fresh products with secure authentication, cart/checkout, and real-time order tracking.  
+Customer ordering app with secure authentication, cart/checkout, and real-time order tracking.  
 
 **Tech Stack:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -81,7 +81,7 @@ Customer ordering app for fresh products with secure authentication, cart/checko
 ---
 
 🔹 **Ecommerce App (Flutter Mobile App)**  
-Cross-platform e-commerce app featuring real-time product browsing, secure checkout, and Google Maps integration.  
+Cross-platform e-commerce app with real-time product browsing, secure checkout, and Google Maps.  
 
 **Tech Stack:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -108,7 +108,7 @@ Web-based gold invoicing system with real-time gold price calculation, PDF gener
 ---
 
 🔹 **Quoteify (Flutter Web)**  
-Vehicle workshop quotation and maintenance system with categorized service pricing and PDF generation.  
+Vehicle workshop quotation system with categorized service pricing and PDF generation.  
 
 **Tech Stack:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -117,6 +117,9 @@ Vehicle workshop quotation and maintenance system with categorized service prici
 ![GetX](https://img.shields.io/badge/GetX-FF5733?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
+
+🌐 Live: [Quoteify](https://autoquote-c6207.web.app/)
+
 ---
 
 ## 🌱 Currently Exploring
@@ -130,9 +133,9 @@ Vehicle workshop quotation and maintenance system with categorized service prici
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsahkhan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsahkhan&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Afsahkhan&theme=radical)
 
 ---
 
